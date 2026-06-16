@@ -14,7 +14,7 @@
 * [cite_start]**RevisionViewer**: Visualize historical sheet revisions across the entire model[cite: 48].
 * [cite_start]**Bonus Tool**: Create print sets directly from your Project Browser selection[cite: 49, 76].
 
-![Issue Buddy Ribbon Toolbar](images/ribbon_toolbar.png)
+![Issue Buddy Ribbon Toolbar](IssueBuddyDocs/img/image2.png)
 
 [cite_start]Below is a brief overview of the tools included in this set[cite: 50].
 
@@ -27,14 +27,14 @@
 
 [cite_start]With this tool, you will never accidentally miss a revised sheet in your submittal package[cite: 54].
 
-![Create Print Set Dialog](images/create_print_set.png)
+![Create Print Set Dialog](IssueBuddyDocs/img/image3.png)
 
 ---
 
 ### 2. PDFSplitter
 [cite_start]Once a print set is generated, print it to a single combined PDF using your preferred PDF driver (ensuring the option *"Combine multiple selected views/sheets into a single file"* is enabled)[cite: 56, 57]. [cite_start]This combined file is used as the base input for the next step[cite: 58].
 
-![Revit Print Setup](images/revit_print.png)
+![Revit Print Setup](IssueBuddyDocs/img/image4.png)
 
 [cite_start]The **PDFSplitter** reads the combined document and splits it into individual files matching the page order of your print set[cite: 56, 59]. [cite_start]One by one, it generates neatly separated PDFs and accompanying DWGs[cite: 60].
 
@@ -48,16 +48,16 @@
 
 * [cite_start]**Step 2**: Select your preferred DWG export settings, choose the matching print set (the one used to print your combined PDF), and select or create a naming template[cite: 65].
   
-  ![PDF Splitter Step 2](images/pdf_splitter_step2.png)
+  ![PDF Splitter Step 2](IssueBuddyDocs/img/image5.png)
 
 * **Step 3**: Click **Split**. [cite_start]The tool will process the document, generating individual PDFs and corresponding DWGs in your target output directory[cite: 66].
   
-  ![PDF Splitter Step 3](images/pdf_splitter_step3.png)
+  ![PDF Splitter Step 3](IssueBuddyDocs/img/image6.png)
 
 #### Output Results Example:
 | Exported PDFs | Exported DWGs |
 |---|---|
-| ![Exported PDFs List](images/exported_pdfs.png) | ![Exported DWGs List](images/exported_dwgs.png) |
+| ![Exported PDFs List](IssueBuddyDocs/img/image8.png) | ![Exported DWGs List](IssueBuddyDocs/img/image9.png) |
 
 ---
 
@@ -73,7 +73,7 @@
 
 [cite_start]A central file or a cloud-based shared model will automatically become detached from its source[cite: 70]. [cite_start]After processing, the tool automatically prompts the user to purge unused elements, trimming the file down to its most compact and secure version[cite: 71].
 
-![Model Stripper Dialog](images/model_stripper.png)
+![Model Stripper Dialog](IssueBuddyDocs/img/image10.png)
 
 ---
 
@@ -82,7 +82,7 @@
 
 [cite_start]It provides a clean matrix table of your revision streams, making it effortless to cross-check sheet statuses, compile issue records, or generate Task Information Delivery Plans (TIDPs)[cite: 74]. [cite_start]The completed matrix table can be exported directly to a CSV file for external documentation and project tracking workflows[cite: 75].
 
-![Revision History Viewer Matrix](images/revision_viewer.png)
+![Revision History Viewer Matrix](IssueBuddyDocs/img/image11.png)
 
 ---
 
@@ -91,6 +91,6 @@
 
 [cite_start]It is fast, intuitive, and eliminates manual list building[cite: 79].
 
-![Project Browser Context Menu](images/context_menu_selection.png)
+![Project Browser Context Menu](IssueBuddyDocs/img/image12.png)
 
 > [cite_start]📌 **Note:** This specific context-menu feature is supported in Revit 2025 and higher[cite: 80].
