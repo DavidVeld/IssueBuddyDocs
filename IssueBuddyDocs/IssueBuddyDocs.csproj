@@ -36,9 +36,20 @@
     <None Include="App.config" />
     <None Include="Help\ReadMe - Issue Buddy Tools.docx" />
     <None Include="Help\ReadMe - Issue Buddy Tools.pdf" />
-    <None Include="README.md" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Img\image1.png" />
+    <Content Include="Img\image10.png" />
+    <Content Include="Img\image11.png" />
+    <Content Include="Img\image12.png" />
+    <Content Include="Img\image2.png" />
+    <Content Include="Img\image3.png" />
+    <Content Include="Img\image4.png" />
+    <Content Include="Img\image5.png" />
+    <Content Include="Img\image6.png" />
+    <Content Include="Img\image7.png" />
+    <Content Include="Img\image8.png" />
+    <Content Include="Img\image9.png" />
     <Content Include="Policies\Generic-Privacy-Policy.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
