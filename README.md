@@ -44,15 +44,15 @@
 #### How It Works:
 * [cite_start]**Step 1**: Select your combined PDF or drag and drop it directly into the target UI box[cite: 63, 64].
   
-  ![PDF Splitter Step 1](images/pdf_splitter_step1.png)
+  ![PDF Splitter Step 1](IssueBuddyDocs/img/image5.png)
 
 * [cite_start]**Step 2**: Select your preferred DWG export settings, choose the matching print set (the one used to print your combined PDF), and select or create a naming template[cite: 65].
   
-  ![PDF Splitter Step 2](IssueBuddyDocs/img/image5.png)
+  ![PDF Splitter Step 2](IssueBuddyDocs/img/image6.png)
 
 * **Step 3**: Click **Split**. [cite_start]The tool will process the document, generating individual PDFs and corresponding DWGs in your target output directory[cite: 66].
   
-  ![PDF Splitter Step 3](IssueBuddyDocs/img/image6.png)
+  ![PDF Splitter Step 3](IssueBuddyDocs/img/image7.png)
 
 #### Output Results Example:
 | Exported PDFs | Exported DWGs |
