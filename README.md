@@ -1,6 +1,6 @@
 # Issue Buddy Tools
 
-![David Veld Logo](images/david_veld_logo.png)
+![David Veld Logo](IssueBuddyDocs/img/image1.png)
 
 [cite_start]**Version 1.0.0 | June 2026** [cite: 42]
 
