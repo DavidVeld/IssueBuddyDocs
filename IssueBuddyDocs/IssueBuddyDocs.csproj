@@ -36,6 +36,7 @@
     <None Include="App.config" />
     <None Include="Help\ReadMe - Issue Buddy Tools.docx" />
     <None Include="Help\ReadMe - Issue Buddy Tools.pdf" />
+    <None Include="Policies\IssueBuddyTools-Privacy-Policy.md" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Img\image1.png" />
@@ -51,6 +52,7 @@
     <Content Include="Img\image8.png" />
     <Content Include="Img\image9.png" />
     <Content Include="Policies\Generic-Privacy-Policy.txt" />
+    <Content Include="Policies\IssueBuddyTools-Privacy-Policy.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
